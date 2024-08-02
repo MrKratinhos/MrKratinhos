@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bem-Vindo(a) 👋
 
 - Olá, me chamo Felipe e atualmente estou cursando Engenharia de software na Uninter.
 - Sou entusiasta em tecnologia
