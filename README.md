@@ -3,7 +3,7 @@
 - Olá, me chamo Felipe e atualmente estou cursando Engenharia de software na Uninter.
 - Sou entusiasta em tecnologia
 - Busco me aperfeiçoar a cada dia
-- Atualmente estudando python
+- Atualmente estudando JavaScript
 
 ### 🧰 Linguagens e Ferramentas
 
